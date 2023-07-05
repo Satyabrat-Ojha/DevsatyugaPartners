@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffffea;
+}
+
+img {
+  object-fit: contain;
+}
+
+h1 {
+  padding: 30px;
+  padding-bottom: 10px;
+}
+h2 {
+  padding: 10px 30px;
+}
+
+img {
+  width: 200%;
+  height: auto;
+}
+
+.partners {
+  width: 100vw;
+  overflow-x: hidden;
+}
